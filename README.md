@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/tokens.svg" width="100%" alt="21.9B tokens burned in the last 12 months across Codex, Claude and OpenCode" />
+  <img src="assets/tokens.svg" width="100%" alt="About 51B tokens processed over nine months across six agent harnesses" />
 </p>
 
 <p align="center">
