@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tiller.shipr.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiller-dark.svg"><img src="assets/tiller-light.svg" width="100%" alt="Tiller: one window for every coding agent"></picture></a>
+  <a href="https://github.com/0xNull-ops/tiller"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiller-dark.svg"><img src="assets/tiller-light.svg" width="100%" alt="Tiller: one window for every coding agent"></picture></a>
 </p>
 
 <p align="center">
