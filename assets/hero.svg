@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img">
+<style>
+.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace} .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+
+.ln{animation:in .5s ease-out backwards}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+.cur{animation:blink 1s steps(1) infinite 3s}
+@keyframes blink{50%{opacity:0}}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1280" height="420" rx="22" fill="#0a0c10"/><rect width="1280" height="420" rx="22" fill="url(#grid)"/><radialGradient id="glow" cx="100%" cy="0%" r="80%"><stop offset="0" stop-color="#3b82f6" stop-opacity=".28"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient><rect width="1280" height="420" rx="22" fill="url(#glow)"/><rect x=".5" y=".5" width="1279" height="419" rx="22" fill="none" stroke="#1f2430"/>
+<g transform="translate(0,0)">
+  <circle cx="44" cy="40" r="7" fill="#ff5f57"/><circle cx="68" cy="40" r="7" fill="#febc2e"/><circle cx="92" cy="40" r="7" fill="#28c840"/>
+  <text x="640.0" y="45" text-anchor="middle" class="mono" font-size="14" fill="#8b93a1">hammaad@tiller — zsh — after-hours</text>
+  <line x1="0" y1="72" x2="1280" y2="72" stroke="#1f2430"/>
+</g>
+<text x="64" y="138" class="sans" font-size="58" font-weight="800" fill="#eef1f5" letter-spacing="-1.5">Hammaad Jamshed</text>
+<text x="64" y="180" class="sans" font-size="22" fill="#8b93a1">I build harnesses for coding agents, and the apps they ship.</text>
+<g class="ln" style="animation-delay:0.6s"><text x="64" y="238" class="mono" font-size="17" fill="#4b5363">[Sat 23:41]</text><text x="196" y="238" class="mono" font-size="17" fill="#7ee787">●</text><text x="222" y="238" class="mono" font-size="17" fill="#eef1f5">shipped tiller 1.0.6</text></g><g class="ln" style="animation-delay:1.05s"><text x="64" y="272" class="mono" font-size="17" fill="#4b5363">[Tue 19:12]</text><text x="196" y="272" class="mono" font-size="17" fill="#79c0ff">●</text><text x="222" y="272" class="mono" font-size="17" fill="#eef1f5">codex: fixed the theme studio new-thread bug</text></g><g class="ln" style="animation-delay:1.5s"><text x="64" y="306" class="mono" font-size="17" fill="#4b5363">[Sun 02:07]</text><text x="196" y="306" class="mono" font-size="17" fill="#d2a8ff">●</text><text x="222" y="306" class="mono" font-size="17" fill="#eef1f5">synced 529 upstream commits</text></g><g class="ln" style="animation-delay:1.9500000000000002s"><text x="64" y="340" class="mono" font-size="17" fill="#4b5363">[Thu 21:55]</text><text x="196" y="340" class="mono" font-size="17" fill="#ffa657">●</text><text x="222" y="340" class="mono" font-size="17" fill="#eef1f5">claude: theme studio made &#x27;velvet paws&#x27;</text></g>
+<g class="ln" style="animation-delay:2.6s">
+  <text x="64" y="384" class="mono" font-size="17" fill="#7ee787">~</text>
+  <text x="84" y="384" class="mono" font-size="17" fill="#eef1f5">$ tiller --resume   # picks up where the weekend left off</text>
+  <rect class="cur" x="672" y="369" width="10" height="19" fill="#eef1f5"/>
+</g>
+<g transform="translate(1000,110)">
+  <text x="200" y="0" text-anchor="end" class="mono" font-size="13" fill="#8b93a1">LOCAL TIME</text>
+  <text x="200" y="44" text-anchor="end" class="mono" font-size="40" font-weight="700" fill="#eef1f5">17:01</text>
+  <text x="200" y="70" text-anchor="end" class="mono" font-size="13" fill="#7ee787">● shift two</text>
+</g>
+</svg>
